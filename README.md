@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaloombaCatGamer64
-- 👀 I’m interested in making a Linux Desktop
-- 🌱 I’m currently learning to Code
+- 👀 I’m interested in making a Linux Distro
+- 🌱 I’m currently learning to Code things
 - 🍕 thats all you need to know
 
 <!---

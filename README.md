@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GaloombaCatGamer64
-- 👀 I’m interested in making a Linux Distro
-- 🌱 I’m currently learning to Code things
+- 👋 Hi, I’m YarnDrawz
+- 👀 idk what can i do
+- 🌱 like for years
 - 🍕 thats all you need to know
 
 <!---

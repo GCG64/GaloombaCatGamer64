@@ -1,5 +1,5 @@
-- 👋 Hi, I’m YarnDrawz
-- 👀 idk what can i do
+- 👋 Hi, I’m GCG64
+- 👀 i don't know what can i do
 - 🌱 like for years
 - 🍕 thats all you need to know
 
